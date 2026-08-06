@@ -1,3 +1,4 @@
 payload:
   # DOMAIN,fhnfile.oss-cn-shenzhen.aliyuncs.com
   - DOMAIN-SUFFIX,qiuchenly.us.kg
+  - DOMAIN-SUFFIX,cursor.sh
